@@ -1,0 +1,7 @@
+#!/bin/bash
+#Echo command 
+# VARIABLES ARE UPPERCASE BY CONVENTION ,YOU USE NUMBERS, LETTERS AND UNDERSCORES
+
+NAME="Josy"
+echo "My name is $NAME"
+echo 
